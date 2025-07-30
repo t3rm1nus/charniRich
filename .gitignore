@@ -51,3 +51,8 @@ BTCUSDT_finrl_2025.csv
 /venv/Scripts/
 /venv/Lib/
 /FinRL-Meta/
+
+
+finrl-env/
+FinRL-Metav/
+env/
