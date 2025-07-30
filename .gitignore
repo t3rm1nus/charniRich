@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+finrl-env/
+FinRL-Meta/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs y datos generados
+*.log
+resultados/
+models/
+
+# Archivos específicos del proyecto que no queremos versionar
+BTCUSDT_1h_2020_2025.csv
+BTCUSDT_finrl_2025_indicadores.csv
+BTCUSDT_finrl_2025.csv
+/venv/Lib/
+/venv/Scripts/
+/FinRL-Meta/
+/venv/Lib/
+/venv/Scripts/
+/venv/Lib/
+/FinRL-Meta/
