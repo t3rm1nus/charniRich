@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Carga tu dataset (ajusta nombre de archivo)
-df = pd.read_csv("BTCUSDT_finrl_2025.csv", parse_dates=["date"])
+df = pd.read_csv("crypto20_finrl_5min_2020_2025.csv", parse_dates=["date"])
 
 # 1. Ver las primeras filas para inspección visual rápida
 print("Primeras filas:")
